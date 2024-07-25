@@ -1,0 +1,802 @@
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.vkardz.com/"
+  },
+  "headline": "How to use Vkardz",
+  "description": "## Overview:
+
+In the age of digital technology, networking has become crucial for both career and personal growth. Vkardz is an extremely powerful tool that has the potential to completely change the way you interact, connect, and network. This post will discuss how to take full advantage of Vkardz and enhance your networking skills.
+
+## Introduction to Vkardz
+When you first sign up, try to create an attractive profile on Vkardz showcasing your qualifications, knowledge, and more. Make sure your profile is professional and reflects you correctly as it acts as your online business card.
+
+### Important Information:
++ Provide a great, accessible profile photo that conveys confidence.
++ Write a headline that reflects the essence of your work.
++ Create an engaging bio that emphasizes your special selling point.
+
+# Expanding Your Network
+The goal of Vkardz networking is to build genuine connections with like-minded people in your field or sector. By building your network strategically, you can access opportunities, guidance, and collaborations you may not have known about before.
+
+### Key Points:
+
++ Connect with your network by endorsing skills, posting content you like, and sharing practical content.
+
++ Connect with people in your field by sending personalized connection requests.
+
++ Become a member of organizations and clubs that share your interests to meet people in the business and broaden your horizons.
+
+## Using Vkardz Features
+
+Many of the features offered by Vkardz are aimed at improving networking and making it more effective and seamless. To maximize your Vkardz experience, get familiar with these features.
+
+## Key Points:
+
++ Use the messaging function to engage in dialogue and build relationships with your connections. Check out the Events area to find courses, webinars, and networking opportunities in your area.
+
++ Provide updates, articles, and ideas on your feed, so you can establish yourself as a thought leader in your field.
+
+## Connect with opportunities and make the most of them
+If you want to fully benefit from Vkardz, you must be proactive in connecting with your network and taking advantage of opportunities. Maintaining your presence on the platform and responding to messages and notifications will help you gain points.
+
+### Key points: + Participate in discussions, leave comments on posts and share your expertise to increase visibility and credibility. + Respond promptly to messages and connection requests to maintain a favorable rapport with your network. To further your networking, keep an eye on industry events, job openings and partnership opportunities.
+
+## Conclusion: Vkardz is not just a networking platform, but a portal to countless possibilities for growth and prospects. By following the guidelines and tips presented in this manual, you will be able to fully utilize Vkardz and establish a strong network capable of accelerating your career and personal achievements.",
+  "image": "https://www.vkardz.com/metal-smart-business-cards/premium-gold-card",  
+  "author": {
+    "@type": "Organization",
+    "name": "Vkardz"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": ""
+}
+</script>
+
+			
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "Vkardz",
+  "url": "https://www.appitronsolutions.com/",
+  "logo": "https://www.appitronsolutions.com/",
+  "sameAs": [
+    "https://www.facebook.com/vkardzz",
+    "https://www.linkedin.com/company/vkardz/",
+    "https://www.instagram.com/vkardzz/",
+    "https://www.vkardz.com/"
+  ]
+}
+</script>
+
+
+
+
+ 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Vkardz",
+  "image": "https://www.vkardz.com/metal-smart-business-cards/premium-gold-card",
+  "@id": "",
+  "url": "https://www.vkardz.com/",
+  "telephone": "+916377256382",
+  "priceRange": "2999",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "C SCHEME CHOMU HOUSE",
+    "addressLocality": "Jaipur",
+    "postalCode": "302018",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 26.9118722,
+    "longitude": 75.7947618
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "sameAs": [
+    "https://www.facebook.com/appitronsolutions/",
+    "https://www.instagram.com/appitron_solutions/?hl=en",
+    "https://www.linkedin.com/company/appitron-solutions/?originalSubdomain=in",
+    "https://www.appitronsolutions.com/"
+  ] 
+}
+</script>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "NFC CARDS",
+  "description": "Tap, connect, and transform your daily routine! NFC cards are the unsung heroes making our lives simpler. 💳✨ #NFCWonder #SimplifyLife",
+  "thumbnailUrl": "https://fb.watch/sJ8WRRJUJC/",
+  "uploadDate": "2024-06-10",
+  "duration": "PT0M34S",
+  "potentialAction": {
+    "@type": "SeekToAction",
+    "target": "https://www.facebook.com/vkardzz={seek_to_second_number}",
+    "startOffset-input": "required name=seek_to_second_number"
+  }
+}
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Vkardz",
+  "url": "https://www.vkardz.com/",
+  "image": "https://www.vkardz.com/metal-smart-business-cards/premium-gold-card",
+  "sameAs": [
+    "https://www.facebook.com/appitronsolutions/",
+    "https://www.instagram.com/appitron_solutions/?hl=en",
+    "https://www.linkedin.com/company/appitron-solutions/?originalSubdomain=in"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Apptrion  Solutions PVT ltd"
+  }  
+}
+</script>
+
+
+
+
+					
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Premium Gold - nfc smart business cardPremium Silver 2 Business Card | QR Support | NFC-enabled | Pr",
+  "image": "https://www.vkardz.com/metal-smart-business-cards/premium-gold-card",
+  "description": "You are presenting our Premium Gold NFC Business Card—the ideal instrument for frictionless data sharing and networking. This customizable business card blends modern contactless technology with an elegant design to improve your professional image and expedite business encounters. Networking is made easy with our NFC business card. The days of hunting for old-fashioned paper cards or typing contact information by hand are long gone. Watch how your contact information, website, social network profiles, and more are instantaneously transferred when you tap your NFC-enabled business card against a smartphone or other compatible device. This creative method guarantees that your information is received precisely every time while saving time and removing errors. Because we know how important it is to leave a lasting impression, our NFC business card is entirely personalized. The perfect instrument for easy networking and data exchange is now available: the Premium Gold NFC Business Card. This personalized business card combines state-of-the-art contactless technology with sleek aesthetics to improve your professional image and streamline your business interactions. Networking is easy when you have our NFC business card. The days of physically entering contact information or rummaging for old-fashioned paper cards are over. You can see the rapid transfer of your contact information, website, social network profiles, and more when you tap your NFC-enabled business card against a smartphone or other compatible device. Time is saved, mistakes are removed, and your information is consistently received precisely thanks to this creative method. Being personalized, our NFC business card proves we give importance to the significance of leaving a lasting impression",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/metal-smart-business-cards/premium-gold-card",
+    "priceCurrency": "INR",
+    "price": "2999"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+							
+							
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Premium Silver - nfc smart business card | QR Support | NFC-enabled | Premium Quality Metal",
+  "image": "https://www.vkardz.com/metal-smart-business-cards/premium-silver-card",
+  "description": "You are presenting our Premium Silver NFC Business Card—the ideal instrument for frictionless data sharing and networking. This customizable business card blends modern contactless technology with an elegant design to improve your professional image and expedite business encounters. Networking is made easy with our NFC business card.
+The days of hunting for old-fashioned paper cards or typing contact information by hand are long gone. Watch how your contact information, website, social network profiles, and more are instantaneously transferred when you tap your NFC-enabled business card against a smartphone or other compatible device.
+This creative method guarantees that your information is received precisely every time while saving time and removing errors. Because we know how important it is to leave a lasting impression, our NFC business card is entirely personalized. The perfect instrument for easy networking and data exchange is now available: the Premium Silver NFC Business Card.
+This personalized business card combines state-of-the-art contactless technology with sleek aesthetics to improve your professional image and streamline your business interactions. Networking is easy when you have our NFC business card. The days of physically entering contact information or rummaging for old-fashioned paper cards are over.
+You can see the rapid transfer of your contact information, website, social network profiles, and more when you tap your NFC-enabled business card against a smartphone or other compatible device. Time is saved, mistakes are removed, and your information is consistently received precisely thanks to this creative method. Being personalized, our NFC business card proves we give importance to the significance of leaving a lasting impression.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/metal-smart-business-cards/premium-silver-card",
+    "priceCurrency": "INR",
+    "price": "2999"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+								
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Royal Black - nfc smart business card | NFC-enabled | QR Support | Premium Quality Metal",
+  "image": "https://www.vkardz.com/metal-smart-business-cards/royal-black-card",
+  "description": "You are presenting our Royal Black NFC Business Card—the ideal instrument for frictionless data sharing and networking. This customizable business card blends modern contactless technology with an elegant design to improve your professional image and expedite business encounters. Networking is made easy with our NFC business card. The days of hunting for old-fashioned paper cards or typing contact information by hand are long gone. Watch how your contact information, website, social network profiles, and more are instantaneously transferred when you tap your NFC-enabled business card against a smartphone or other compatible device. This creative method guarantees that your information is received precisely every time while saving time and removing errors. Because we know how important it is to leave a lasting impression, our NFC business card is entirely personalized. The perfect instrument for easy networking and data exchange is now available: the Royal Black NFC Business Card. This personalized business card combines state-of-the-art contactless technology with sleek aesthetics to improve your professional image and streamline your business interactions. Networking is easy when you have our NFC business card. The days of physically entering contact information or rummaging for old-fashioned paper cards are over. You can see the rapid transfer of your contact information, website, social network profiles, and more when you tap your NFC-enabled business card against a smartphone or other compatible device. Time is saved, mistakes are removed, and your information is consistently received precisely thanks to this creative method. Being personalized, our NFC business card proves we give importance to the significance of leaving a lasting impression.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/metal-smart-business-cards/royal-black-card",
+    "priceCurrency": "INR",
+    "price": "2999"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+							
+
+						
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Tiger Card - PVC Business Card | NFC-enabled | QR Support | PVC base",
+  "image": "https://www.vkardz.com/pvc-digital-business-cards/tiger-vKardz",
+  "description": "Step into the realm of seamless networking with the Tiger NFC Card, the epitome of futuristic connectivity.
+
+Designed for the dynamic professional, this card is your key to sharing your contact information with confidence and unparalleled flexibility.
+
+At vkardz, we are dedicated to delivering products that are not just innovative but also empower our customers to stay ahead of the curve.
+
+The Tiger NFC Card encapsulates this vision, enabling you to share a wealth of over 50 details, including your name, phone number, email, and links to your social media profiles and products, all with a single tap.
+
+It's more than a card; it's a statement of your commitment to technology and efficiency. Update your profile on-the-go, ensuring that your network is always privy to your latest endeavors.
+
+Embrace the future of networking with the Tiger NFC Card – where your professional identity is just a tap away.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/pvc-digital-business-cards/tiger-vKardz",
+    "priceCurrency": "INR",
+    "price": "549"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+						
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Customize Black and Gold PVC NFC Digital Business Card",
+  "image": "https://www.vkardz.com/combo/Black-and-Gol-PVC-NFC-Digital-Business-Card",
+  "description": "Effortlessly collect Reviews with a simple tap. Our NFC-enabled business card streamlines the review process, making it convenient for your customers to leave feedback. Utilizes Near Field Communication (NFC) for seamless connectivity. Customers can easily tap the card with their NFC-enabled smartphone to access your review page, eliminating the hassle of searching or typing URLs. Save time for both your customers and your business. With a quick tap, clients can leave reviews in seconds, enhancing their experience and engagement with your brand. Compatible with All Devices: Works with a wide range of NFC supported smartphones and doesn't require any specific app. It's universally accessible for customers, ensuring a hassle-free review process. Encourage positive reviews and feedback with a convenient Google Review social feature. Boost your social media presence by seamlessly integrating your profiles on a single card.",
+  "brand": {
+    "@type": "Brand",
+    "name": "VKardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/combo/Black-and-Gol-PVC-NFC-Digital-Business-Card",
+    "priceCurrency": "INR",
+    "price": "999"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+				
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Off-Spring Card - Digital Business Card | NFC-enabled | QR support | PVC base",
+  "image": "https://www.vkardz.com/pvc-digital-business-cards/digital-business-black-red-comb-card",
+  "description": "Step into the realm of seamless networking with the Off-Spring Card, the epitome of futuristic connectivity.
+
+Designed for the dynamic professional, this card is your key to sharing your contact information with confidence and unparalleled flexibility.
+
+At vkardz, we are dedicated to delivering products that are not just innovative but also empower our customers to stay ahead of the curve.
+
+The Tiger NFC Card encapsulates this vision, enabling you to share a wealth of over 50 details, including your name, phone number, email, and links to your social media profiles and products, all with a single tap.
+
+It's more than a card; it's a statement of your commitment to technology and efficiency. Update your profile on-the-go, ensuring that your network is always privy to your latest endeavors.
+
+Embrace the future of networking with the Off-Spring Card – where your professional identity is just a tap away.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/pvc-digital-business-cards/digital-business-black-red-comb-card",
+    "priceCurrency": "INR",
+    "price": "599"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "0",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+								
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Plain Wooden Card - wooden visiting card | QR Support |Elegant design",
+  "image": "https://www.vkardz.com/wooden-visiting-cards/wooden%20visiting%20card",
+  "description": "Making a lasting first impression is essential in today's fast-paced, cut-throat world. Our plain wooden NFC business card, which combines modern NFC technology with classic beauty, transforms the way we exchange contact information. NFC-enabled smartphones or tablets enable rapid sharing of contact information, websites, and social media accounts with just a single tap over NFC or near-field communication.
+
+There are many benefits to choosing wooden NFC business cards. Because it's made of sustainable wood and uses less paper and plastic, it's both convenient and beneficial for the environment. The natural texture and distinctive wood grain give it a polished, attractive look.
+The essential qualities of our card are its high-quality, long-lasting materials, optimized design possibilities and contactless data transfer.
+Your pre-programmed information is instantly transferred when you touch your card against an NFC-enabled smartphone or device, guaranteeing that your details are consistently received accurately.
+By eliminating the need for manual data entry, this process reduces errors and saves time. Because the cards are completely customizable, you can add engraved logos and custom text to create a unique design or choose from a variety of pre-made themes.
+They can store a lot of information like your name, social media profiles, phone number, email address, website and job title.
+Our wooden NFC business cards combine old-world charm with cutting-edge technology to enhance your professional image. They are perfect for regular business contacts, conferences, trade exhibitions and networking events. With our beautiful wooden NFC business cards, you can embrace the future of business cards and make networking simple and engaging.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/wooden-visiting-cards/wooden%20visiting%20card",
+    "priceCurrency": "INR",
+    "price": "1299"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+						
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Black Digital |digital business nfc card | PVC base | QR Support | NFC-enabled",
+  "image": "https://www.vkardz.com/professional-cards/business-black",
+  "description": "Use our Black digital NFC business cards to transform your networking. This card, which combines simplicity and current technology, can instantly share contact details, websites and social media accounts by tapping the front of a smartphone or other NFC-enabled device. It's completely customizable with your design, eco-friendly, and uses less paper. It guarantees a creative and unforgettable professional image and is ideal for trade exhibitions, networking events and regular business encounters. Embrace the business cards of the future with our digital NFC business cards.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/professional-cards/business-black",
+    "priceCurrency": "INR",
+    "price": "1299"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "4"
+  }
+}
+</script>
+
+
+
+						
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "CA Card - PVC Business Card | NFC-enabled | QR Support | PVC base",
+  "image": "https://www.vkardz.com/professional-cards/ca-card-darkblue",
+  "description": "Your personality is what sets you apart from the crowd. Make an everlasting impression on the people you meet while they save your contact information directly into their phones. With vkardz, you’ll need to tap, and your 50+ details, such as your name, contact number, email, social media profile links, images, etc., will be shared immediately. Also, you can edit your details anytime, anywhere.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/professional-cards/ca-card-darkblue",
+    "priceCurrency": "INR",
+    "price": "999"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Google Review Card (Customize) - PVC Business Card | QR Support | Contactless Contact Sharing | PVC base",
+  "image": "https://www.vkardz.com/social-card/google-review-cus-card",
+  "description": "Instant Google Reviews: Effortlessly collect Google Reviews with a simple tap. Our NFC-enabled business card streamlines the review process, making it convenient for your customers to leave feedback. NFC Technology: Utilizes Near Field Communication (NFC) for seamless connectivity. Customers can easily tap the card with their NFC-enabled smartphone to access your review page, eliminating the hassle of searching or typing URLs. Boost Online Reputation: Enhance your business's online presence by encouraging satisfied customers to leave positive reviews. Strengthen trust and credibility with a higher volume of authentic reviews. User-Friendly and Time-Saving: Save time for both your customers and your business. With a quick tap, clients can leave reviews in seconds, enhancing their experience and engagement with your brand. Compatible with All Devices: Works with a wide range of smartphones and doesn't require any specific app. It's universally accessible for customers, ensuring a hassle-free review process. Durable and Eco-Friendly: Crafted from high-quality, durable materials that ensure longevity. Additionally, our cards are environmentally friendly, reducing paper waste associated with traditional business cards. Comprehensive Support: Receive assistance and guidance on maximizing the benefits of this innovative tool. Our customer service team is dedicated to ensuring you get the most out of your Google Review NFC Business Card. Versatile Marketing Tool: Beyond just reviews, utilize this card to link to promotions, social media, or any other digital content. It's a multi-functional tool for your marketing strategy. Stay Ahead of the Curve: Embrace the future of networking and customer engagement. Stand out from the competition by adopting cutting-edge technology that simplifies the customer feedback process.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/social-card/google-review-cus-card",
+    "priceCurrency": "INR",
+    "price": "549"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+								
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "vKardz Premium Vyapari Kit ( NFC Google review Standee, Hybrid metal card,Business card, Epoxy Tag)",
+  "image": "https://www.vkardz.com/combo/vkardz-premium-vyapari-kit",
+  "description": "VKardz Premium Vyapari Kit: Your Business Growth Catalyst
+The VKardz Vyapari Kit is designed to boost your business reviews and connections.
+Simplifies collecting Google reviews via NFC.
+Offers a tap-to-review option using NFC technology.
+Facilitates instant sharing of business details with a tap.
+Customized for your specific business needs.
+Streamlines acquiring Google reviews with just a tap.
+Ensures a seamless experience for customers without NFC.
+Activate your VKardz profile to easily handle your offerings.
+Share your business details swiftly and efficiently.
+Keep your business information current and accurate.
+The VKardz Vyapari Kit is your key to business growth.
+Open new avenues to grow your business and connections.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/combo/vkardz-premium-vyapari-kit",
+    "priceCurrency": "INR",
+    "price": "3999"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Epoxy NFC Sticker - Digital NFC Sticker | Contactless Sharing | Instant Sharing | Premium Quality",
+  "image": "https://www.vkardz.com/other-nfc-products/epoxy-sticker",
+  "description": "Lead your business to new heights, and make every interaction count. It allows you to share your contact information with anyone. With a tap, you can share your 50+ details. You can add your name, contact number, email, social media profile links, product links, images, etc. You can also change your added information anytime, anywhere.
+
+Specifications:
+
+Material	PVC and Epoxy
+Background Color	Black
+Dimension	85.60 x 53.98 mm
+Print	UV
+Weight	21.54 grams
+Thickness	0.8 mm",
+  "brand": {
+    "@type": "Brand",
+    "name": "Vkardz"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.vkardz.com/other-nfc-products/epoxy-sticker",
+    "priceCurrency": "INR",
+    "price": "449"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "5"
+  }
+}
+</script>
+
+
+							
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is the Vkardz Business Card and how  does it work",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "vkardz business card is a smart card with NFC (Near Field Communication) technology and QR Code that allows you to share your contact information as well as product and service information with the tap of any NFC enabled smartphone or you can QR Code."
+    }
+  },
+
+{
+    "@type": "Question",
+    "name": "What are the benefits of the smart business card and vkardz Business card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Users can share contact information and product or service information with customers via email, WhatsApp, text message, social media, and other means. Your vkardz Business card will come in handy when you meet someone at a business meeting, seminar, or conference."
+    }
+  }]
+}
+</script>
+
+
+							
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Custom and personalised",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "just send your order ID and Your details to seller."
+    }
+  },{
+    "@type": "Question",
+    "name": "Sizing deatils",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "5X8.5X0.1"
+    }
+  },{
+    "@type": "Question",
+    "name": "Gift Wrapping and Packaging",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Is this a pvc card or a paper card?"
+    }
+  },{
+    "@type": "Question",
+    "name": "Wholesale availablity",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, you can contact us for bulk order."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is this a pvc card or a paper card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It's high quality PVC card"
+    }
+  },{
+    "@type": "Question",
+    "name": "Do we have to  monthly pay  or  yearly  charges for using this card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "There is no extra charges for the cards. You have to pay once for card."
+    }
+  }]
+}
+</script>
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Is it possible to put my company 's logo, image,  or design on the vkardz business card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, the user can include a logo, an image, or any other design in their card."
+    }
+  }
+}
+</script>
+
+
+								
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How can I add my profile details to card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You have to login to the vkrardz dashboard and after that you can add on your details on dashboard."
+    }
+  },{
+    "@type": "Question",
+    "name": "How can I add my profile details to card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You've to login to the vkrardz dashboard and then you can add your all the details."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is this a pvc card or a paper card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It's high quality PVC card"
+    }
+  },{
+    "@type": "Question",
+    "name": "Is this card water proof?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, this card is water proof."
+    }
+  },{
+    "@type": "Question",
+    "name": "How and how many times can we change its details?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "You can change as many time as you want."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is there an extra charge to print the name on the card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "This is custom card, for this you may connect with the vkardz team via their website or email."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I print my company logo in this card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes you can, for this you have to connect with the customer support"
+    }
+  },{
+    "@type": "Question",
+    "name": "Is there an extra charge to print the name on the card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "This is custom card, for this you may connect with the vkardz team via their website or email."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I print my company logo in this card",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes you can, for this you have to connect with the customer support"
+    }
+  },{
+    "@type": "Question",
+    "name": "can we create our own design on the card?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes you, but for this you have to connect with the customer support"
+    }
+  },{
+    "@type": "Question",
+    "name": "The person scanning my card requires this app?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No"
+    }
+  },{
+    "@type": "Question",
+    "name": "what about the validity of it?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It's one time payment for the card."
+    }
+  }]
+}
+</script>
