@@ -1,84 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React + TS</title>
 
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
-  <base href="/">
-
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="MG Taxi">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>MG Taxi</title>
-  <link rel="manifest" href="manifest.json">
-
-  <script>
-    // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "658749062";
-  </script>
-  <!-- This script adds the flutter initialization JS code -->
-  <script src="flutter.js" defer></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpyC1pIrOAo5f0lul2A1xRNJyGftxOZXw"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpyC1pIrOAo5f0lul2A1xRNJyGftxOZXw&libraries=drawing,visualization,places"></script>
-  <script src="https://unpkg.com/@googlemaps/markerclusterer@2.5.3/dist/index.min.js"></script>
-</head>
-<body>
-  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
-  <script src="js/payment.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-analytics.js"></script>
-  <!-- Add Firebase products that you want to use -->
-  <script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-auth.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.4.3/firebase-firestore.js"></script>
-  <script type="module">
-    var firebaseConfig = {
-      apiKey: "AIzaSyDIzzQ04xNgVjoVnSN8Zy1Z-yoR0PW1UvU",
-      authDomain: "mgtaxi-app.firebaseapp.com",
-      projectId: "mgtaxi-app",
-      storageBucket: "mgtaxi-app.appspot.com",
-      messagingSenderId: "767735226980",
-      appId: "1:767735226980:web:1c0e0f0be22d983b917571",
-      measurementId: "G-W0446SJ2KW"
-    };
-
-    // Initialize Firebase
-    const app = initializeApp(firebaseConfig);
-    const analytics = getAnalytics(app);
-  </script>
-  <script>
-    window.addEventListener('load', function(ev) {
-      // Download main.dart.js
-      _flutter.loader.loadEntrypoint({
-        serviceWorker: {
-          serviceWorkerVersion: serviceWorkerVersion,
-        },
-        onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
-            appRunner.runApp();
-          });
-        }
-      });
-    });
-  </script>
-</body>
+    <script type="module" crossorigin src="/assets/index-o0kKvnBa.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BC2jmTFV.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  </body>
 </html>
