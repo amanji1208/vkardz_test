@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    Fore more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
   <base href="/">
   <link rel="stylesheet" href="loader.css" />
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="The fastest way to send and receive money worldwide. Invest in bitcoin. Play games, and do a lot more.">
-  <meta name="theme-color" content="#88A1AC">
+  <meta name="theme-color" content="#88A1AC"> <!-- Change to your preferred color -->
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -18,52 +28,10 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="ninjapay_live_link.png" />
 
+  <title>Ninjapay: Trade & Payments</title>
   <title>Ninjapay: Business & Payment Plugins</title>
   <link rel="manifest" href="/manifest.json">
-
-  <script>
-    // Register the service worker with proper error handling and logging
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
-        navigator.serviceWorker.register('/flutter_service_worker.js')
-          .then(function(registration) {
-            console.log('Service worker registered with scope:', registration.scope);
-
-            // Ensure the Service Worker is ready before proceeding
-            return navigator.serviceWorker.ready;
-          })
-          .then(function(registration) {
-            console.log('Service worker is ready.');
-
-            // Check for PushManager support
-            if ('PushManager' in window) {
-              console.log('PushManager is supported.');
-
-              // Subscribe to push notifications
-              return registration.pushManager.subscribe({
-                userVisibleOnly: true,
-                applicationServerKey: 'BB5-T3jpaxFGs2ED2lvfl5hJtBynVQEiVMa4sI9S4YJf-BKwY2TUZvt6yDxhPs_nGACnIM5R3pw7A5uB7vdmoSI' // Replace with your VAPID public key
-              });
-            } else {
-              console.error('PushManager is not supported in this browser.');
-              return null;
-            }
-          })
-          .then(function(subscription) {
-            if (subscription) {
-              console.log('Push subscription successful:', subscription);
-            }
-          })
-          .catch(function(error) {
-            console.error('Service worker registration or push subscription failed:', error);
-          });
-      });
-    } else {
-      console.log('Service workers are not supported in this browser.');
-    }
-  </script>
-
-  <script src="flutter.js" defer></script>
+  <!--  <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js" defer></script>-->
 </head>
 
 <body style="background-color:#ffffff;">
@@ -76,29 +44,74 @@
     <div></div>
   </div>
 </div>
-
 <script>
-  window.addEventListener('load', function(ev) {
-    // Download main.dart.js and start the Flutter app
-    _flutter.loader.loadEntrypoint({
-      serviceWorker: {
-        serviceWorkerVersion: 'flutter_service_worker.js', // Ensure this is correct
-      },
-      onEntrypointLoaded: function(engineInitializer) {
-        engineInitializer.initializeEngine().then(function(appRunner) {
-          appRunner.runApp();
-        });
-      }
+  const serviceWorkerVersion = "4010631349";
+  var scriptLoaded = false;
+  function loadMainDartJs() {
+    if (scriptLoaded) {
+      return;
+    }
+    scriptLoaded = true;
+    var scriptTag = document.createElement("script");
+    scriptTag.src = "main.dart.js";
+    scriptTag.type = "application/javascript";
+    document.body.append(scriptTag);
+  }
+
+  if ("serviceWorker" in navigator) {
+    // Service workers are supported. Use them.
+    window.addEventListener("load", function () {
+      // Wait for registration to finish before dropping the <script> tag.
+      // Otherwise, the browser will load the script multiple times,
+      // potentially different versions.
+      var serviceWorkerUrl =
+        "flutter_service_worker.js?v=" + serviceWorkerVersion;
+      navigator.serviceWorker.register(serviceWorkerUrl).then((reg) => {
+        function waitForActivation(serviceWorker) {
+          serviceWorker.addEventListener("statechange", () => {
+            if (serviceWorker.state == "activated") {
+              console.log("Installed new service worker.");
+              loadMainDartJs();
+            }
+          });
+        }
+        if (!reg.active && (reg.installing || reg.waiting)) {
+          // No active web worker and we have installed or are installing
+          // one for the first time. Simply wait for it to activate.
+          waitForActivation(reg.installing ?? reg.waiting);
+        } else if (!reg.active.scriptURL.endsWith(serviceWorkerVersion)) {
+          // When the app updates the serviceWorkerVersion changes, so we
+          // need to ask the service worker to update.
+          console.log("New service worker available.");
+          reg.update();
+          waitForActivation(reg.installing);
+        } else {
+          // Existing service worker is still good.
+          console.log("Loading app from service worker.");
+          loadMainDartJs();
+        }
+      });
+
+      // If service worker doesn't succeed in a reasonable amount of time,
+      // fallback to plaint <script> tag.
+      setTimeout(() => {
+        if (!scriptLoaded) {
+          console.warn(
+            "Failed to load app from service worker. Falling back to plain <script> tag."
+          );
+          loadMainDartJs();
+        }
+      }, 4000);
     });
-  });
+  } else {
+    // Service workers not supported. Just drop the <script> tag.
+    loadMainDartJs();
+  }
 </script>
-
-<!-- ZXing Library for Barcode Scanning -->
 <script src="https://unpkg.com/@zxing/library@0.19.1" type="application/javascript"></script>
-
-<!-- Firebase Libraries -->
 <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
 <script src="firebase_info.js"></script>
+<!--<script src="main.dart.js?version=1" type="application/javascript"></script>-->
 </body>
 </html>
