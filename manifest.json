@@ -1,6 +1,6 @@
 {
-    "name": "Ninjapay",
-    "short_name": "Ninjapay",
+    "name": "Ninjapay: Business & Payment Plugins",
+    "short_name": "Ninjapay: Business & Payment Plugins",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
