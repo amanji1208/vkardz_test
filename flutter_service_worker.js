@@ -806,18 +806,18 @@ const RESOURCES = {"assets/AssetManifest.bin": "0e519dd32e3800dec8bae6e7214332d1
 "firebase-messaging-sw.js": "6a94987e973f314b0b17aa624dd47613",
 "firebase_info.js": "49d04c930f70f4876e49b682be989aaf",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "5c23d0bbdc1d5c664a0b04bbe0c02479",
+"flutter_bootstrap.js": "e9a9040055470723c3e15ac69e4c3687",
 "icons/apple-touch-icon.png": "04132d22b5f13bd5d76f54b5141741ab",
 "icons/ninjapay_live.svg": "19a9284811379101cba4fa339a11c15c",
 "icons/ninjapay_live_link.png": "8f0dcf9e8ddf11e9f8a3ac0079317264",
-"index.html": "ca9b87186a43214ce0a7c4f984cd22c5",
-"/": "ca9b87186a43214ce0a7c4f984cd22c5",
+"index.html": "3c2cbf5b0c9c9f065d49ad16b23b4708",
+"/": "3c2cbf5b0c9c9f065d49ad16b23b4708",
 "loader.css": "e7bbaaa51a560cabe82ed10daac04321",
 "main.dart.js": "e5c06770136b0d441966463f1a58927b",
-"manifest.json": "0168016fde3509392b4a24bc2d2d1ace",
+"manifest.json": "3fea3ed0e4b4b8b13c738f6482d6f2ff",
 "ninjapay_live_link.png": "8f0dcf9e8ddf11e9f8a3ac0079317264",
 "ringerbusiness.mp3": "8279c807bde7955df1c576ddecb9ded4",
-"version.json": "7a12db17b0efc816496018e81b16d193"};
+"version.json": "960537dd0363393d4eab8059af570e39"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
