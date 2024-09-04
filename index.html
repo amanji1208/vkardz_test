@@ -1,33 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    Fore more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
   <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="loader.css" />
+
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta content="The fastest way to send and receive money worldwide. Invest in bitcoin. Play games, and do a lot more." name="description">
-  <meta content="Flutter" name="author">
+  <meta name="description" content="The fastest way to send and receive money worldwide. Invest in bitcoin. Play games, and do a lot more.">
+  <meta name="theme-color" content="#88A1AC"> <!-- Change to your preferred color -->
 
   <!-- iOS meta tags & icons -->
-  <meta content="yes" name="apple-mobile-web-app-capable">
-  <meta content="black" name="apple-mobile-web-app-status-bar-style">
-  <meta content="abccc" name="apple-mobile-web-app-title">
-  <link href="icons/ic_launcher_bg_white.png" rel="apple-touch-icon">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="ninjapay">
+  <link rel="ninjapay_live_link" href="icons/ninjapay_live_link.png">
 
   <!-- Favicon -->
-  <link href="icons/ic_launcher_bg_white.png" rel="icon" type="image/png"/>
+  <link rel="icon" type="image/png" href="ninjapay_live_link.png" />
 
-  <title>Ninjapay</title>
-  <link href="manifest.json" rel="manifest">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.css" rel="stylesheet" />
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/exif-js/2.3.0/exif.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.min.js"></script>
-  <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js" defer></script>
+  <title>Trade & Payments</title>
+  <title>Business & Payment Plugins</title>
+  <link rel="manifest" href="/manifest.json">
+  <!--  <script type="application/javascript" src="/assets/packages/flutter_inappwebview_web/assets/web/web_support.js" defer></script>-->
 </head>
-<body>
 
+<body style="background-color:#ffffff;">
+<div id="loader">
+  <img src="icons/ninjapay_live.svg" height="100px" width="100px" />
+  <div class="lds-ellipsis">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+</div>
 <script>
-  const serviceWorkerVersion = "3573180638";
+  const serviceWorkerVersion = "3474002655";
   var scriptLoaded = false;
   function loadMainDartJs() {
     if (scriptLoaded) {
@@ -93,37 +111,7 @@
 <script src="https://unpkg.com/@zxing/library@0.19.1" type="application/javascript"></script>
 <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
-<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-messaging.js"></script>
-<script defer src="flutter.js"></script>
-
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.13.0/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
-
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyDVTUp-0zmV-0vdywqt0iCbHCCnuEsVadM",
-    authDomain: "ninjapay-24b2f.firebaseapp.com",
-    projectId: "ninjapay-24b2f",
-    storageBucket: "ninjapay-24b2f.appspot.com",
-    messagingSenderId: "223863695725",
-    appId: "1:223863695725:web:a8ab50d3d2e7a1769e1264",
-    measurementId: "G-K0KY1HD87S"
-  };
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-</script>
+<script src="firebase_info.js"></script>
+<!--<script src="main.dart.js?version=1" type="application/javascript"></script>-->
 </body>
 </html>
-
-
-
-
-
